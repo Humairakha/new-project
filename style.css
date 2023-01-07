@@ -9,7 +9,7 @@
     height: 100vh;
     left: 1600px;
     top: 0px;
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(images/banner/banner2.png);
     display: flex;
  
     align-items: center;
@@ -126,7 +126,7 @@
 /* gradient start */
 
 .gradient{ 
-    background: linear-gradient(to right ,rgba(255, 0, 0, 0.5),rgba(248, 241, 241, 0.5)) ,url(/images/watch.png);
+    background: linear-gradient(to right,rgba(255, 0, 0, 0.5),rgba(248, 241, 241, 0.5)),url(images/watch.png);
 
    height: 300px;
    width: 800px;
@@ -137,6 +137,7 @@
    border-radius: 20px;
    display: flex;
    margin-bottom: 100px;
+
 
 }
 
